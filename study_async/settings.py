@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'study_async.wsgi.application'
 DATABASES = {
    'default': {
         'ENGINE':'django.db.backends.postgresql',
-        'NAME':'Study_System',
-        'USER':'postgres',
-        'PASSWORD':'1026',
-        'HOST':'localhost'
+        'NAME':'',
+        'USER':'',
+        'PASSWORD':'',
+        'HOST':''
     }
 }
 
